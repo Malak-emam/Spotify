@@ -1,0 +1,18 @@
+﻿  Home2.cpp
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\Home2.h(2568,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\Home2.h(2609,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SignUp.cpp
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\Home2.h(2568,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\Home2.h(2609,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\SignUp.h(117,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\SignUp.h(160,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  user.cpp
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\user.cpp(18,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\user.cpp(22,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\user.cpp(26,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\user.cpp(158,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\user.cpp(146): warning C4715: 'user::search_song': not all control paths return a value
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\SignUp.h(137): warning C4715: 'SpotifyUIDesign::SignUp::signUpWithGoogle': not all control paths return a value
+  btree.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SpotifyUIDesign.vcxproj -> D:\SpotifyUIDesign_copy\x64\Debug\SpotifyUIDesign.exe

@@ -1,0 +1,33 @@
+F:\Data Project\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.AssemblyReference.cache
+F:\Data Project\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+F:\Data Project\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+F:\Data Project\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+F:\Data Project\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+C:\Users\USer\Downloads\Data Project\Data Project - Copy\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.AssemblyReference.cache
+C:\Users\USer\Downloads\Data Project\Data Project - Copy\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USer\Downloads\Data Project\Data Project - Copy\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+C:\Users\USer\Downloads\Data Project\Data Project - Copy\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+C:\Users\USer\Downloads\Data Project\Data Project - Copy\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+D:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.AssemblyReference.cache
+D:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+D:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+D:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+D:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+E:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+E:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+E:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+E:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+E:\SpotifyUIDesign\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.AssemblyReference.cache
+E:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+E:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+E:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+E:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+F:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.AssemblyReference.cache
+F:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+F:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+F:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+F:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.SuggestedBindingRedirects.cache
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.Home2.resources
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.SignUp.resources
+D:\SpotifyUIDesign_copy\SpotifyUIDesign\x64\Debug\SpotifyUIDesign.vcxproj.GenerateResource.cache
